@@ -1,4 +1,4 @@
-Bomberman Classic Remake
+Bomberman
 A local multiplayer recreation of the classic Bomberman game built in Unity. Two players share the same keyboard and battle in a maze full of destructible blocks, enemies, and power-ups.
 
 Features
