@@ -90,3 +90,15 @@ Possible improvements: more maps, more power-ups, score system, round-based matc
 
 Disclaimer
 This project is a fan-made educational remake and is not affiliated with or endorsed by the creators or rights holders of the original Bomberman series.
+
+
+---
+
+## Developer
+
+**Project:** Bomberman Classic Remake  
+**Developer:** SilverBackUwU  
+**Repository:** https://github.com/SilverBackUwU/Bomberman  
+**License:** MIT (or your preferred license)
+
+> This is a fan-made educational remake created for portfolio and learning purposes.
